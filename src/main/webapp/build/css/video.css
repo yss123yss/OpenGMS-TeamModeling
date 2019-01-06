@@ -1,0 +1,17 @@
+.col-md-55 {
+    width: 20%;
+}
+.btn-app {
+    position: relative;
+    /* padding: 15px 5px; */
+    margin: 0 0 10px 10px;
+    min-width: 80px;
+    height: 40px;
+    box-shadow: none;
+    border-radius: 0;
+    text-align: center;
+    color: #666;
+    border: 1px solid #ddd;
+    background-color: #fafafa;
+    font-size: 12px;
+}

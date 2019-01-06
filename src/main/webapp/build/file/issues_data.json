@@ -1,0 +1,42 @@
+﻿[
+  {
+    "NO": "1",
+    "Title": "Bridge Underwater Submergence Analysis and Dynamic Simulation Based on Small Region Accurate Submergence Algorithm",
+    "Author": "Zhang Wensheng",
+    "Abstract": "The terrain of urban underpass bridges is relatively low，so it's easily flooded in a rainstorm， which not only has great impact on transportation but also threatens the cars and people's lives and propertied． Seed spread algorithm is improved by analyzing urban underpass bridge and surrounding small region's topography，and solves the issue that the accuracy of catchment area partition． Through the analysis of heavy rains flood process and calculation of water-collecting amount and submerged depth，this method can quickly simulate the water area and dynamically display water depth． The submerging analysis and dynamic simulation of underpass bridge submergence is implemented through the secondary development of skyline，a 3D-GIS software，which will provide decision support for municipal drainage and traffic emergency dispatching system.",
+    "Publication": "Journal of Shijiazhuang Tiedao University(Natural Science Edition)",
+    "Path":"1.pdf"
+  },
+  {
+    "NO": "2",
+    "Title": "A “Ring” Method for Flood Submergence Based on DEM",
+    "Author": "SUN Hai,WANG Cheng",
+    "Abstract": "Facing to the field of flood simulation, a new 'Ring'method for flood has been introduced in the paper, which is based on the DEM data and flood' s classical principle. Aim at the small region , the new method tries to combe the DEM data' s characters and GIS' advantages to implement flood' s simulation and forecasting. In succession, according to the new method , a 3D flood simulation and forecasting system have been design and implemented , which is used to supply exact and available information to make flood map , flood prevention and other interrelated works.",
+    "Publication": "Geomatics and Information Science of Wuhan University",
+    "Path":"2.pdf"
+  },
+  {
+    "NO": "3",
+    "Title": "Algorithm of urban storm flood inundation simulation based on TIN and triangular prism[…]",
+    "Author": "Zhang ZhenXin",
+    "Abstract": "Based on the triangular prism and the urban land surface,this paper proposed a storm inundation simulation algorithm for inundated area and water depth simulation.The triangular prism,served as ca[…]",
+    "Publication": "Science of Surveying and Mapping",
+    "Path":"3.pdf"
+  },
+  {
+    "NO": "4",
+    "Title": "An Algorithm for Inundated Depth Calculation of Flood Based on Remotely Sensed Data ",
+    "Author": "YI Yong-hong,CHEN Xiu-wan,WU Hua",
+    "Abstract": ": The paper puts forward an algorithm to calculate the depth distribution within the inundated region extracted from the satellite imagery,which can be applied in the flood monitoring and loss evaluation. The algorithm combines the flood region with DEM and acquires a smooth elevation distribution in the flood borderlines after efficient error control due to inadequate precision in the satellite imagery processing and DEM itself. After assuming floodwater in the flood area to be an inclining plane, the depthdistribution within the boundaries can be computed using a bilinear interpolation algorithm. The result in the test site shows the algorithm can meet the requirement of the flood loss estimation both in precision and computing speed.",
+    "Publication": "Geography and Geo-Information Science",
+    "Path":"4.pdf"
+  },
+  {
+    "NO": "5",
+    "Title": "RISK REGIONALIZATION OF URBAN ROADS WATERLOGGING DISASTERS BASED ON GIS RAINSTORM FLOOD INUNDATION MODEL",
+    "Author": "YE Li-mei",
+    "Abstract": "Based on acquiring rainfall return period and pumping rainfall of Xiangyang center city, submerged depth and scope of disaster-causing areal rainfall in different return period were obtained by using GIS Rainstorm Flood Inundation Model. Waterlogging flood risk distribution of urban roads was made according to the actual impact of urban waterlogging on the roads. The results indicated that this method could directly show the waterlogging flood risk distribution of different threshold rainfall in different area, quantitatively assessed the submerged depth and scope of flood. Meantime, the method could provide waterlogging flood risk distribution of urban roads, combined with the urban roads information and positioning high-risk waterlogged street, and put forward scientific basis for government.",
+    "Publication": "Resources and Environment in the Yangtze Basin",
+    "Path":"5.pdf"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {"factors":"海陆位置","principle":"距海越近的地区，受海洋的影响较大,距海越远，海洋水汽难以到达，降水较少,所以降水分布的普遍规律是沿海多，内陆少。"},
+  {"factors":"地形","principle":"山脉走向与降水。迎风坡、背风坡与降水,地形类型与降水"},
+  {"factors":"气压带","principle":""},
+  {"factors":"风带","principle":""},
+  {"factors":"季风","principle":""},
+  {"factors":"气锋,旋面","principle":""},
+  {"factors":"下垫面","principle":""},
+  {"factors":"洋流","principle":""},
+  {"factors":"人类活动","principle":""}
+]
