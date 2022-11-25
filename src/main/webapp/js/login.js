@@ -49,7 +49,6 @@ $(document).ready(function () {
                         }
                         else{
                             window.location.href="http://localhost:8081/TeamWorking/index.html";
-                            // window.location.href="http://222.192.7.75:8066/TeamWorking/index.html";
                         }
                     }
                 }
@@ -60,7 +59,6 @@ $(document).ready(function () {
 
     });
     $("#login-button-register").click(function (){
-        // window.location.href = "http://222.192.7.75:8066/TeamWorking/html/register.html";
         window.location.href = "http://localhost:8081/TeamWorking/html/register.html";
     });
     //input
